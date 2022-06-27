@@ -1,4 +1,4 @@
-# Big Data Project
+# Big Data Project - rework
 #### Amine AITAMALIK - Charlotte BREDY-MAUX - Emir DAKIN - Yann IMBERT
 
 For this project, we picked a data set about songs from Spotify. The variables include (but are not limited to) loudness, popularity and danceability. Here is the link for the data set: https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?select=tracks.csv
